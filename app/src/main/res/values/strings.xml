@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="nav_movie">Movies</string>
+    <string name="nav_tv">TV Shows</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_movies">Title Movies</string>
+    <string name="desc_movie">Description Movies</string>
+    <string name="title_tv">Title TV</string>
+    <string name="desc_tv">Description TV</string>
+    <string name="image_movies">Image Movies</string>
+    <string name="image_tv">Image TV</string>
+    <string name="languages">Languages</string>
+
+    <array name="image_movies_banner">
+        <item>@drawable/a_star_is_born_banner</item>
+        <item>@drawable/aquaman_banner</item>
+        <item>@drawable/avengers_banner</item>
+        <item>@drawable/bird_banner</item>
+        <item>@drawable/bohemian_banner</item>
+        <item>@drawable/bumblebee_banner</item>
+        <item>@drawable/creed_banner</item>
+        <item>@drawable/deadpool_banner</item>
+        <item>@drawable/glass_banner</item>
+        <item>@drawable/hunter_banner</item>
+        <item>@drawable/venom_banner</item>
+    </array>
+
+    <array name="image_movies">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="title_movies">
+        <item>A Star is Born(2018)</item>
+        <item>Aquaman(2018)</item>
+        <item>Avengers: Infinity Wars(2018)</item>
+        <item>Bird Box(2018)</item>
+        <item>Bohemian Rhapsody(2018)</item>
+        <item>Bumblebee(2018)</item>
+        <item>Creed II(2018)</item>
+        <item>Once Upon a Deadpool(2018)</item>
+        <item>Glass(2018)</item>
+        <item>Hunter Killer(2018)</item>
+        <item>Venom(2018)</item>
+    </string-array>
+
+    <string-array name="desc_movies">
+        <item>The veteran musician Jackson Maine discovered - and fell in love with - the struggling artist Ally. He had just given up on his dream of becoming a big singer - until Jack talked him into the spotlight. But even when Ally\'s career took off, the personal side of their relationship was destroyed, when Jack struggled constantly with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock &amp; roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Between personal obligations and training for his next big fight against an opponent with ties to his family\'s past, Adonis Creed is up against the challenge of his life.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder &amp; zero \'s.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup d\'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+    </string-array>
+
+<!--    tv show -->
+
+    <array name="image_tv_banner">
+        <item>@drawable/desmontando_la_historia_banner</item>
+        <item>@drawable/the_flash_banner</item>
+        <item>@drawable/fear_the_walking_dead_banner</item>
+        <item>@drawable/arrow_banner</item>
+        <item>@drawable/pennyworth_banner</item>
+        <item>@drawable/family_banner</item>
+        <item>@drawable/simpsons_banner</item>
+        <item>@drawable/supernatural_banner</item>
+        <item>@drawable/boys_banner</item>
+        <item>@drawable/titans_banner</item>
+        <item>@drawable/marvel_banner</item>
+    </array>
+
+    <array name="image_tv_shows">
+        <item>@drawable/desmontando_la_historia</item>
+        <item>@drawable/the_flash</item>
+        <item>@drawable/fear_the_walking_dead</item>
+        <item>@drawable/arrow</item>
+        <item>@drawable/pennyworth</item>
+        <item>@drawable/family</item>
+        <item>@drawable/simpsons</item>
+        <item>@drawable/supernatural</item>
+        <item>@drawable/boys</item>
+        <item>@drawable/titans</item>
+        <item>@drawable/marvel</item>
+    </array>
+
+    <string-array name="title_tv_shows">
+        <item>Desmontando la Historia(2017)</item>
+        <item>The Flash(2014)</item>
+        <item>Fear the Walking Dead(2015)</item>
+        <item>Arrow(2012)</item>
+        <item>Pennyworth(2019)</item>
+        <item>Family Guy(1999)</item>
+        <item>The Simpsons(1989)</item>
+        <item>Supernatural(2005)</item>
+        <item>The Boys(2019)</item>
+        <item>Titans(2018)</item>
+        <item>Marvel\'s Agents of S.H.I.E.L.D.(2013)</item>
+    </string-array>
+
+    <string-array name="desc_tv_shows">
+        <item>The myths and mysteries that surround the most iconic and well-known mega-structures of the planet have survived over the centuries feeding the imagination of humanity with the most varied theories. However, all these secrets have the days told thanks to \'Dismantling History\', a new series of producers of \'Dismantling the Cosmos\' and \'Dismantling the city\', which has proposed to strip the legacy of some of the most civilizations Ancient of the world. How were the pyramids built and that hide their secret chambers? How was sticky rice used to build the Great Wall of China? What sacred secret is found under the Mayan temples of Chichen Itza?</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta-human" who was created in the wake of the accelerator explosion and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become The Flash.</item>
+        <item>What did the world look like as it was transforming into the horrifying apocalypse depicted in "The Walking Dead"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.</item>
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>The origin story of Bruce Wayne\'s legendary butler, Alfred Pennyworth, a former British SAS soldier who forms a security company and goes to work with Thomas Wayne, Bruce\'s billionaire father, in 1960s London.</item>
+        <item>Sick, twisted, politically incorrect and Freakin\' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he\'s not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their \'67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.</item>
+        <item>A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.</item>
+        <item>A team of young superheroes led by Nightwing (formerly Batman\'s first Robin) form to combat evil and other perils.</item>
+        <item>Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Film App</string>
+    <string name="nav_movie">Film</string>
+    <string name="nav_tv">Acara TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_movies">Judul Film</string>
+    <string name="desc_movie">Deskripsi Film</string>
+    <string name="title_tv">Judul Acara TV</string>
+    <string name="desc_tv">Deskripsi Acara TV</string>
+    <string name="image_movies">Gambar Film</string>
+    <string name="image_tv">Gambar Acara TV</string>
+    <string name="languages">Bahasa</string>
+
+    <array name="image_movies_banner">
+        <item>@drawable/a_star_is_born_banner</item>
+        <item>@drawable/aquaman_banner</item>
+        <item>@drawable/avengers_banner</item>
+        <item>@drawable/bird_banner</item>
+        <item>@drawable/bohemian_banner</item>
+        <item>@drawable/bumblebee_banner</item>
+        <item>@drawable/creed_banner</item>
+        <item>@drawable/deadpool_banner</item>
+        <item>@drawable/glass_banner</item>
+        <item>@drawable/hunter_banner</item>
+        <item>@drawable/venom_banner</item>
+    </array>
+
+    <array name="image_movies">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="title_movies">
+        <item>A Star is Born(2018)</item>
+        <item>Aquaman(2018)</item>
+        <item>Avengers: Infinity Wars(2018)</item>
+        <item>Bird Box(2018)</item>
+        <item>Bohemian Rhapsody(2018)</item>
+        <item>Bumblebee(2018)</item>
+        <item>Creed II(2018)</item>
+        <item>Once Upon a Deadpool(2018)</item>
+        <item>Glass(2018)</item>
+        <item>Hunter Killer(2018)</item>
+        <item>Venom(2018)</item>
+    </string-array>
+
+    <string-array name="desc_movies">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya sendiri.</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati takhta.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tak menyenangkan membuat sebagian besar masyarakat bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon membawa dunia musik dengan badai ketika mereka membentuk band rock &amp; roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 rendition Deadpool 2 sebagai kisah Putri Pengantin yang penuh dengan keajaiban, keajaiban &amp; nol.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+        <item>Kapten Glass dari USS Arkansas menemukan bahwa kudeta sedang terjadi di Rusia, jadi ia dan krunya bergabung dengan kelompok elit yang bekerja di lapangan untuk mencegah perang.</item>
+        <item>Jurnalis investigasi Eddie Brock mencoba untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+    </string-array>
+
+    <!--    tv show -->
+
+    <array name="image_tv_banner">
+        <item>@drawable/desmontando_la_historia_banner</item>
+        <item>@drawable/the_flash_banner</item>
+        <item>@drawable/fear_the_walking_dead_banner</item>
+        <item>@drawable/arrow_banner</item>
+        <item>@drawable/pennyworth_banner</item>
+        <item>@drawable/family_banner</item>
+        <item>@drawable/simpsons_banner</item>
+        <item>@drawable/supernatural_banner</item>
+        <item>@drawable/boys_banner</item>
+        <item>@drawable/titans_banner</item>
+        <item>@drawable/marvel_banner</item>
+    </array>
+
+    <array name="image_tv_shows">
+        <item>@drawable/desmontando_la_historia</item>
+        <item>@drawable/the_flash</item>
+        <item>@drawable/fear_the_walking_dead</item>
+        <item>@drawable/arrow</item>
+        <item>@drawable/pennyworth</item>
+        <item>@drawable/family</item>
+        <item>@drawable/simpsons</item>
+        <item>@drawable/supernatural</item>
+        <item>@drawable/boys</item>
+        <item>@drawable/titans</item>
+        <item>@drawable/marvel</item>
+    </array>
+
+    <string-array name="title_tv_shows">
+        <item>Desmontando la Historia(2017)</item>
+        <item>The Flash(2014)</item>
+        <item>Fear the Walking Dead(2015)</item>
+        <item>Arrow(2012)</item>
+        <item>Pennyworth(2019)</item>
+        <item>Family Guy(1999)</item>
+        <item>The Simpsons(1989)</item>
+        <item>Supernatural(2005)</item>
+        <item>The Boys(2019)</item>
+        <item>Titans(2018)</item>
+        <item>Marvel\'s Agents of S.H.I.E.L.D.(2013)</item>
+    </string-array>
+
+    <string-array name="desc_tv_shows">
+        <item>Mitos dan misteri yang mengelilingi mega-struktur planet yang paling ikonik dan terkenal telah bertahan selama berabad-abad memberi makan imajinasi manusia dengan teori-teori yang paling beragam. Namun, semua rahasia ini telah terungkap berkat \'Membongkar Sejarah\', seri baru produsen \'Membongkar Kosmos\' dan \'Membongkar Kota\', yang telah mengusulkan untuk menanggalkan warisan dari beberapa peradaban yang paling Kuno di dunia. Bagaimana piramida dibangun dan yang menyembunyikan kamar rahasia mereka? Bagaimana beras ketan digunakan untuk membangun Tembok Besar Tiongkok? Rahasia suci apa yang ditemukan di bawah kuil Maya di Chichen Itza?</item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya bersemangat dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi tidak lama kemudian dunia mengetahui apa yang menjadi Barry Allen sebagai The Flash.</item>
+        <item>Seperti apa dunia saat berubah menjadi kiamat mengerikan yang digambarkan dalam "The Walking Dead"? Spin-off ini ditetapkan di Los Angeles, mengikuti karakter baru saat mereka menghadapi awal akhir dunia, akan menjawab pertanyaan itu.</item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Kisah asal-usul kepala pelayan legendaris Bruce Wayne, Alfred Pennyworth, seorang mantan prajurit SAS Inggris yang membentuk sebuah perusahaan keamanan dan pergi bekerja dengan Thomas Wayne, ayah miliarder Bruce, pada 1960-an London.</item>
+        <item>Seri animasi animasi Freakin \'Sweet yang sakit, terpelintir, dan salah, menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sementara menghirup Martinis dan memilah-milah masalah hidupnya sendiri.</item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
+        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajar mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi negara itu dengan Chevy Impala \'67 mereka, memerangi setiap jenis ancaman supernatural yang mereka temui di sepanjang jalan.</item>
+        <item>Sekelompok penjaga yang dikenal secara informal sebagai "The Boys" berangkat untuk menjatuhkan superhero yang korup dengan tidak lebih dari grit kerah biru dan kesediaan untuk melawan yang kotor.</item>
+        <item>Sebuah tim pahlawan super muda yang dipimpin oleh Nightwing (sebelumnya Robin pertama Batman) dibentuk untuk memerangi kejahatan dan bahaya lainnya.</item>
+        <item>Agen Phil Coulson dari S.H.I.E.L.D. (Divisi Intervensi, Penegakan dan Logistik Tanah Air Strategis) membentuk sebuah tim agen untuk menyelidiki yang baru, yang aneh dan yang tidak diketahui di seluruh dunia, melindungi yang biasa dari yang luar biasa.</item>
+    </string-array>
+
+
+</resources>
